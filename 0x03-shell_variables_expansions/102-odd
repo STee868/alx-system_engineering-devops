@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n
+Printf 'NR % 2 == 1' $1
